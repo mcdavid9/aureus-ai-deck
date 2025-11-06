@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AUREUS AI — Investor Web Deck</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Local fallback fonts are used; web fonts optional -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="wrapper nav">
+      <div class="brand">
+        <img src="assets/logo.png" alt="AUREUS AI logo">
+        <div>AUREUS AI</div>
+      </div>
+      <div class="badge">Investor Preview • 2025</div>
+    </div>
+  </header>
+
+  <!-- Cover -->
+  <section class="section">
+    <div class="wrapper">
+      <div class="grid grid-2">
+        <div class="reveal">
+          <div class="badge">Outsmart the Market</div>
+          <h1 class="h1">Cinematic Investor Deck</h1>
+          <p class="p">Matte-dark, luxury presentation for global investors. Founder: <strong>Maxime Rentmeester</strong>.</p>
+          <div style="margin-top:18px" class="subtle">Scroll ↓</div>
+        </div>
+        <div class="reveal">
+          <div class="card">
+            <div class="subtle">Cover Visual</div>
+            <div style="height:300px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Logo + Tagline</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Vision -->
+  <section class="section">
+    <div class="wrapper grid grid-2">
+      <div class="reveal">
+        <h2 class="h2">Vision</h2>
+        <p class="p">AI that helps anyone trade like a pro. We blend adaptive intelligence, behavioral coaching, and a culture of winning.</p>
+        <div class="kpis">
+          <div class="kpi">Global first</div>
+          <div class="kpi">AI-native</div>
+          <div class="kpi">Brand-led</div>
+        </div>
+      </div>
+      <div class="reveal card">
+        <div class="subtle">Abstract AI visual</div>
+        <div style="height:320px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Neural network art</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Problem -->
+  <section class="section">
+    <div class="wrapper grid grid-2">
+      <div class="reveal">
+        <h2 class="h2">The Problem</h2>
+        <ul class="p">
+          <li>Retail traders lose due to emotion & noise</li>
+          <li>Information overload; low signal-to-noise</li>
+          <li>No elite tools or coaching for the masses</li>
+        </ul>
+      </div>
+      <div class="reveal card">
+        <div class="subtle">Market chaos image</div>
+        <div style="height:280px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Volatility collage</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Solution -->
+  <section class="section">
+    <div class="wrapper grid grid-2">
+      <div class="reveal">
+        <h2 class="h2">The Solution</h2>
+        <p class="p">AUREUS AI — adaptive trading intelligence (claim: 98% win rate*). Delivers signals, risk guidance, and performance habits.</p>
+      </div>
+      <div class="reveal grid grid-2">
+        <div class="card"><div class="subtle">AI Chat</div><div style="height:180px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Assistant UI</div></div>
+        <div class="card"><div class="subtle">Signals</div><div style="height:180px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Alerts feed</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Product -->
+  <section class="section">
+    <div class="wrapper">
+      <div class="reveal">
+        <h2 class="h2">Product</h2>
+        <p class="p">Dashboard, live AI insights, and a global community. Built for speed, clarity, and conviction.</p>
+      </div>
+      <div class="reveal card" style="margin-top:16px">
+        <div class="subtle">Dashboard mockup</div>
+        <div style="height:360px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Charts & positions</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Market Opportunity -->
+  <section class="section">
+    <div class="wrapper grid grid-2">
+      <div class="reveal">
+        <h2 class="h2">Market Opportunity</h2>
+        <p class="p">Global retail investing &gt; $15T. AI finance adoption growing +20% YoY.</p>
+      </div>
+      <div class="reveal card">
+        <div class="subtle">Chart placeholder</div>
+        <div style="height:280px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Bar/Line chart</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Business Model -->
+  <section class="section">
+    <div class="wrapper grid grid-3">
+      <div class="reveal card"><div class="h3">Subscriptions</div><p class="p">99–499/mo tiers</p></div>
+      <div class="reveal card"><div class="h3">Mastermind</div><p class="p">2.5k/yr elite network</p></div>
+      <div class="reveal card"><div class="h3">Licensing</div><p class="p">AI tech to brokers</p></div>
+    </div>
+  </section>
+
+  <!-- Competitive Edge -->
+  <section class="section">
+    <div class="wrapper">
+      <h2 class="h2 reveal">Competitive Edge</h2>
+      <div class="card reveal" style="margin-top:16px">
+        <table class="table">
+          <tr><th></th><th>Aureus AI</th><th>Robinhood</th><th>eToro</th></tr>
+          <tr><td>AI Personalization</td><td>✓</td><td>—</td><td>—</td></tr>
+          <tr><td>Community + Brand</td><td>✓</td><td>—</td><td>✓</td></tr>
+          <tr><td>Education + Signals</td><td>✓</td><td>—</td><td>—</td></tr>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Traction Plan -->
+  <section class="section">
+    <div class="wrapper grid grid-3">
+      <div class="reveal card"><div class="subtle">Milestone</div><div class="h2">Launch Beta</div></div>
+      <div class="reveal card"><div class="subtle">Milestone</div><div class="h2">10K Users</div></div>
+      <div class="reveal card"><div class="subtle">Milestone</div><div class="h2">100K Users</div></div>
+    </div>
+  </section>
+
+  <!-- Team -->
+  <section class="section">
+    <div class="wrapper grid grid-3">
+      <div class="reveal card"><div class="subtle">Founder</div><div class="h2">Maxime Rentmeester</div><div class="p">Founder & CEO</div></div>
+      <div class="reveal card"><div class="subtle">Future</div><div class="h2">CTO</div></div>
+      <div class="reveal card"><div class="subtle">Future</div><div class="h2">Head of Growth</div></div>
+    </div>
+  </section>
+
+  <!-- Financials -->
+  <section class="section">
+    <div class="wrapper">
+      <div class="reveal">
+        <h2 class="h2">Financials</h2>
+        <p class="p">Illustrative growth trajectory (swap with real numbers later).</p>
+      </div>
+      <div class="reveal card" style="margin-top:16px">
+        <div class="subtle">Chart placeholder</div>
+        <div style="height:320px;border:1px dashed var(--line);border-radius:12px;margin-top:12px;display:flex;align-items:center;justify-content:center;color:var(--muted)">Line chart</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Funding Ask -->
+  <section class="section">
+    <div class="wrapper grid grid-2">
+      <div class="reveal">
+        <h2 class="h2">Funding Ask</h2>
+        <p class="p">Raising <strong>$2 Million Seed Round</strong> for AI model expansion, go-to-market, and partnerships.</p>
+      </div>
+      <div class="reveal card">
+        <div class="subtle">Use of funds</div>
+        <ul class="p">
+          <li>Product & infrastructure</li>
+          <li>Growth & community</li>
+          <li>Partnerships & compliance</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Closing -->
+  <section class="section">
+    <div class="wrapper">
+      <div class="reveal">
+        <h2 class="h2">Presented by Maxime Rentmeester</h2>
+        <p class="p">AUREUS AI — Outsmart the Market</p>
+        <div style="margin-top:16px"><a class="btn" href="#top">Back to top</a></div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    © sandbox AUREUS AI. All rights reserved.
+  </footer>
+</body>
+</html>
+
+:root{
+  --bg:#0a0a0a;
+  --card:#141414;
+  --ink:#f5f5f5;
+  --muted:#bdbdbd;
+  --line:#2a2a2a;
+  --accent:#9bbcff; /* subtle cool tint */
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+a{color:inherit;text-decoration:none}
+.wrapper{max-width:1100px;margin:0 auto;padding:0 20px}
+.header{position:sticky;top:0;z-index:50;background:linear-gradient(180deg,rgba(10,10,10,.95),rgba(10,10,10,.6) 80%,rgba(10,10,10,0));backdrop-filter:saturate(130%) blur(6px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:64px}
+.brand{display:flex;align-items:center;gap:12px;font-weight:600}
+.brand img{width:38px;height:38px;object-fit:contain;filter:grayscale(10%)}
+.badge{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);padding:6px 10px;border-radius:999px;color:var(--muted);font-size:12px}
+.section{min-height:92vh;display:flex;align-items:center;border-bottom:1px solid var(--line)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px}
+.h1{font-size:56px;line-height:1.05;letter-spacing:-.02em;margin:0 0 12px}
+.h2{font-size:38px;line-height:1.1;margin:0 0 6px}
+.p{color:var(--muted);font-size:18px;max-width:720px}
+.grid{display:grid;gap:18px}
+.grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.grid-3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.kpis{display:flex;gap:14px;flex-wrap:wrap;margin-top:18px}
+.kpi{border:1px solid var(--line);border-radius:12px;padding:10px 14px;color:var(--muted);font-size:14px}
+.footer{padding:40px 0;color:var(--muted);text-align:center}
+.quote{font-style:italic;color:#dcdcdc}
+.table{width:100%;border-collapse:collapse;font-size:14px;color:var(--muted)}
+.table th,.table td{border:1px solid var(--line);padding:10px 12px}
+.table th{color:var(--ink);background:#111}
+.btn{display:inline-flex;align-items:center;gap:8px;background:#111;border:1px solid var(--line);padding:12px 16px;border-radius:12px}
+.subtle{color:var(--muted);font-size:14px}
+/* simple reveal effect */
+.reveal{opacity:0;transform:translateY(16px);animation:reveal .8s ease forwards}
+@keyframes reveal{to{opacity:1;transform:none}}
